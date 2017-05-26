@@ -1,2 +1,2 @@
 # loft44
-Template Básico da Agência Loft44 para Wordpress
+Template básico da agência Loft44 para website em Wordpress
